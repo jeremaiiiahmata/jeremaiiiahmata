@@ -1,10 +1,8 @@
-<h1>Hi, I'm Jeremaiah Mata 👋</h1>
+<h1 align="center">Hi, I'm Jeremaiah Mata 👋</h1>
+<h3 align="center"> A Software Engineer Student </h3>
 
-<a href="https://app.daily.dev/jeremaiahmata"><img src="https://api.daily.dev/devcards/v2/Thcuofdk6AeUXMv50Pp8V.png?r=kss&type=default" width="356" alt="Jeremaiah Mata's Dev Card"/></a>
 
 <ul>
-  <li>🌱 4th Year Software Engineering Student</li>
-  <li>🌱 Aspiring to become a Full-stack Developer</li>
   <li>🌱 I'm currently learning :
     <ul>
       <li>⚡HTML</li>
@@ -17,6 +15,11 @@
 </ul>
 
 <h3>💬 Feel free to message me!</h3>
+
+<a href="https://app.daily.dev/jeremaiahmata">
+  <img src="https://api.daily.dev/devcards/v2/Thcuofdk6AeUXMv50Pp8V.png?type=wide&r=acv" width="652" alt="Jeremaiah Mata's Dev Card"/>
+</a>
+
 <!--
 **jeremaiiiahmata/jeremaiiiahmata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
