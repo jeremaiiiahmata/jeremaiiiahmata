@@ -1,4 +1,7 @@
 <h1>Hi, I'm Jeremaiah Mata 👋</h1>
+
+<a href="https://app.daily.dev/jeremaiahmata"><img src="https://api.daily.dev/devcards/v2/Thcuofdk6AeUXMv50Pp8V.png?r=kss&type=default" width="356" alt="Jeremaiah Mata's Dev Card"/></a>
+
 <ul>
   <li>🌱 4th Year Software Engineering Student</li>
   <li>🌱 Aspiring to become a Full-stack Developer</li>
