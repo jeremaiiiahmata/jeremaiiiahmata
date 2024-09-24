@@ -9,7 +9,7 @@
       <li>🚀CSS</li>
       <li>🛰Javascript</li>
       <li>🛸React</li>
-      <li>🪐NodeJS</li>
+      <li>🪐Express</li>
     </ul>
     </li>
 </ul>
