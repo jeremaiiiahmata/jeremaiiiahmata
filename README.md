@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Jeremaiah Mata 👋</h1>
 <h3 align="center"> Software Engineer Student </h3>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blueviolet)
 
 <ul>
   <li>🌱 I'm currently learning :
