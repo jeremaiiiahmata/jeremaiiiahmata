@@ -15,10 +15,10 @@
     </li>
 </ul>
 
-<h2 align="left">Experiences:</h2>
-<hr>
 
-<h2 align="left">Development:</h2>
+<h2 align="left">Experiences:</h2>
+
+<h3 align="left">Development:</h3>
   <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,cpp,py,java,kotlin,nodejs,git,apollo,graphql,react alt="Languages Learned">
 </p>
