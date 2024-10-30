@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Jeremaiah Mata 👋</h1>
-<h3 align="center"> Software Engineer Student </h3>
+<h1 align="left">Hi, I'm Jeremaiah Mata 👋</h1>
+<h3 align="left"> Software Engineer Student </h3>
 
 ![](https://komarev.com/ghpvc/?username=jeremaiiiahmata&style=flat-square&color=blueviolet)
 
