@@ -15,6 +15,29 @@
     </li>
 </ul>
 
+<h2 align="left">Experiences:</h2>
+<hr>
+
+<h2 align="left">Development:</h2>
+  <p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,py,java,kotlin,nodejs,git,apollo,graphql,react alt="Languages Learned">
+</p>
+
+<h3 align="left">Database:</h3>
+  <p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase alt="Database">
+</p>
+
+<h3 align="left">DevOps:</h3>
+  <p align="left">
+  <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes alt="DevOps">
+</p>
+
+<h3 align="left">Designing:</h3>
+  <p align="left">
+  <img src="https://skillicons.dev/icons?i=ps,ae,pr,figma alt="Designing">
+</p>
+
 <h3>💬 Feel free to message me!</h3>
 
 <a href="https://app.daily.dev/jeremaiahmata">
