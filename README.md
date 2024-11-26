@@ -6,11 +6,11 @@
 <ul>
   <li>🌱 I'm currently learning :
     <ul>
-      <li>⚡HTML</li>
-      <li>🚀CSS</li>
+      <li>⚡Python</li>
+      <li>🚀Node</li>
       <li>🛰Javascript</li>
       <li>🛸React</li>
-      <li>🪐Express</li>
+      <li>🪐Machine-Learning</li>
     </ul>
     </li>
 </ul>
