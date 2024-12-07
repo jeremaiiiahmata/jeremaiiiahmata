@@ -53,12 +53,6 @@
 
 &nbsp;
 
-<h3>💬 Feel free to message me!</h3>
-
-<a href="https://app.daily.dev/jeremaiahmata">
-  <img src="https://api.daily.dev/devcards/v2/Thcuofdk6AeUXMv50Pp8V.png?type=wide&r=acv" width="652" alt="Jeremaiah Mata's Dev Card"/>
-</a>
-
 <!--
 **jeremaiiiahmata/jeremaiiiahmata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
