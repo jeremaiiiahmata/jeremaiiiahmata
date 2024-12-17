@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Jeremaiah Mata 👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1DF779&vCenter=true&width=450&height=45&lines=%F0%9F%91%8B+Hi%2C+I'm+Jeremaiah+Mata)](https://git.io/typing-svg)
 <h3 align="left"> Software Engineer Student </h3>
 
 ![](https://komarev.com/ghpvc/?username=jeremaiiiahmata&style=flat-square&color=blueviolet)
