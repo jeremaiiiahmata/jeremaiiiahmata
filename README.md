@@ -7,7 +7,6 @@
   <li>🌱 I'm currently learning :
     <ul>
       <li>⚡Python</li>
-      <li>🚀Node</li>
       <li>🛰Javascript</li>
       <li>🛸React</li>
       <li>🪐Machine-Learning</li>
