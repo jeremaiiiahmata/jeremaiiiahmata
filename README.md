@@ -3,16 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=jeremaiiiahmata&style=flat-square&color=blueviolet)
 
-<ul>
-  <li>🌱 I'm currently learning :
-    <ul>
-      <li>⚡Python</li>
-      <li>🛰Javascript</li>
-      <li>🛸React</li>
-      <li>🪐Machine-Learning</li>
-    </ul>
-    </li>
-</ul>
 
 ## Technologies and Tools 🧰 💻
 
