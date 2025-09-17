@@ -2,14 +2,14 @@
 <h3 align="left"> Software Engineer Student </h3>
 
 
+![](https://komarev.com/ghpvc/?username=jeremaiiiahmata&style=flat-square&color=blueviolet)
 
 <div>
     <div align="start">
         <a href="https://open.spotify.com/user/12159804626">
-        <img width="200px" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=dxso20he52f5d4ti73duavf95&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing">
-        ![](https://komarev.com/ghpvc/?username=jeremaiiiahmata&style=flat-square&color=blueviolet)
-    </a>
-</div> 
+            <img width="200px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12159804626&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
+        </a>
+    </div> 
 </div>
 
 ## Technologies and Tools 🧰 💻
