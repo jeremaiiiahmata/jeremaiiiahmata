@@ -1,8 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1DF779&vCenter=true&width=450&height=45&lines=%F0%9F%91%8B+Hi%2C+I'm+Jeremaiah+Mata)](https://git.io/typing-svg)
 <h3 align="left"> Software Engineer Student </h3>
 
-![](https://komarev.com/ghpvc/?username=jeremaiiiahmata&style=flat-square&color=blueviolet)
 
+
+<div>
+    <div align="start">
+        <a href="https://open.spotify.com/user/12159804626">
+        <img width="200px" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=dxso20he52f5d4ti73duavf95&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing">
+        ![](https://komarev.com/ghpvc/?username=jeremaiiiahmata&style=flat-square&color=blueviolet)
+    </a>
+</div> 
+</div>
 
 ## Technologies and Tools 🧰 💻
 
@@ -39,6 +47,8 @@
      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp;
      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
    </p>
+
+ 
 
 &nbsp;
 
