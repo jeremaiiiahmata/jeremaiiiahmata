@@ -3,14 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=jeremaiiiahmata&style=flat-square&color=blueviolet)
 
-<div>
-    <div align="start">
-        <a href="https://open.spotify.com/user/12159804626">
-            <img width="200px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12159804626&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
-        </a>
-    </div> 
-</div>
-
 &nbsp;
 
 <!--
